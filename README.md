@@ -17,7 +17,7 @@
 > 项目翻译 TensorFlow 2.0
 
 * 贡献者: 记得留言和更新翻译进度
-* 地址: xxxx
+* 地址: <https://github.com/apachecn/tensorflow-doc-zh/issues/3>
 
 ## 项目看板
 
@@ -32,13 +32,13 @@
 
 > 第一期 (2017-06-08)
 
-* 贡献者名单：xxxx
+* 贡献者名单: <http://cwiki.apachecn.org/pages/viewpage.action?pageId=10029623>
 
 > 第2期 (2019-xx-xx)
 
 * [片刻](https://github.com/jiangzhonglian): 529815144
 
--- 负责人要求: (欢迎一起为 `Pytorch 中文版本` 做贡献)
+-- 负责人要求: (欢迎一起为 `TensorFlow 中文版本` 做贡献)
 
 * 热爱开源，喜欢装逼
 * 愿意长期使用 TensorFlow

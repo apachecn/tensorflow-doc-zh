@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * 快速入门
-    * [开始使用TensorFlow 2.0](getting_started.md)
+    * [开始使用TensorFlow 2.0](tutorials/quickstart/getting_started.md)
     * [Effective TensorFlow 2]()
     * [Migrate from TF 1 to TF 2]()
     * [Convert with the upgrade script]()
