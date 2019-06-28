@@ -3,7 +3,7 @@
 ![](docs/img/logo.png)
 
 <center>TensorFlow 是 end-to-end 的开源机器学习平台</center>
-
+<br/>
 > 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
 
 + [在线阅读 - 还没开始弄]()
