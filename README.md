@@ -10,6 +10,10 @@
 + [ApacheCN 机器学习交流群 629470233](http://shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef)
 + [ApacheCN 学习资源](http://www.apachecn.org/)
 
+> 注意
+> 
+> 官方的翻译活动已经开始，请大家查看[参与 TensorFlow 文档编写](https://www.tensorflow.org/community/contribute/docs)，并前往 [tensorflow/docs](https://github.com/tensorflow/docs/pulls) 提交。
+
 ## 翻译进度
 
 [**贡献指南**](CONTRIBUTING.md)
